@@ -1,4 +1,4 @@
-service: dio-live-project
+service: desafio-serverless-project
 
 frameworkVersion: '2'
 
